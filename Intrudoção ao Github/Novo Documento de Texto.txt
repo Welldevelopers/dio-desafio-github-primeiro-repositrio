@@ -1,0 +1,4 @@
+link para o download do GIT
+https://git-scm.com/download/win
+
+oGit bash é um terminal estendido para otimizar o Git
